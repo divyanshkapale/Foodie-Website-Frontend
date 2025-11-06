@@ -25,3 +25,4 @@ This project provides a seamless and engaging experience for users to explore an
 | **JavaScript (Vanilla JS)** | For interactivity and DOM manipulation |
 
 
+
